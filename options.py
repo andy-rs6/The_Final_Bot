@@ -39,7 +39,7 @@ gain = """
       4. Crunches - target all the abdominal muscles but they primarily work the abdominal muscle and the obliques, also help in increasing your core strength.
       
       5. Pull-Ups - help in getting chiseled shoulders and ripped arms, also focus on your biceps and latissimus dorsi primarily.
-      
+Day1_workout
       6. Bench Press - helps in building shoulders, chest muscles, and triceps. 
 
 """
@@ -99,3 +99,101 @@ with open('Appetizers/2.png', 'rb') as f:
   Appetizers2 = discord.File(f)
 with open('Appetizers/3.png', 'rb') as f:
   Appetizers3 = discord.File(f)
+
+with open('Carbo/1.png', 'rb') as f:
+  Carb1 = discord.File(f)
+with open('Carbo/2.jpg', 'rb') as f:
+  Carb2 = discord.File(f)
+  
+with open('Proteins/1.jpg', 'rb') as f:
+  Protein1 = discord.File(f)
+
+  
+
+
+Day1_workout = """
+
+Chest workout
+
+Dumbbell Bench Press – target 3 sets of 10, 10, 8 (by adding weight) reps
+Incline Dumbbell Bench Press – target 3 sets of 10 reps
+Chest Dip – target 3 sets of MAX reps
+
+Triceps workout
+
+Skullcrushers – target 3 sets of 8-10 Reps
+One Arm Dumbbell Extension – target 3 sets of 10 reps
+Tricep Extension – target 3 sets of 10 reps
+
+Shoulders workout
+
+Barbell Front Raise – target 4 sets of 12 reps
+Dumbbell Lateral Raise – target 4 sets of 15, 12, 8, 8 (by adding weight) reps
+
+"""
+
+
+Day2_workout = """
+Back workout
+
+Wide Grip Pull Up – target 3 sets of MAX reps
+Lat Pull Down – target 3 sets of 10 reps
+Straight Arm Lat Pull Down – target 3 sets of 10 reps
+Machine Reverse Fly – target 3 sets of 10 reps
+Upright Row – target 3 sets of 8 to 10 reps
+
+Biceps workout
+
+Standing Barbell Curl – target 3 sets of 8 to 10 reps
+Preacher Curl – target 3 sets of 10 reps
+Incline Dumbbell Curl – target 3 sets of 10 reps
+"""
+
+Day3_workout = """
+Quads, Glutes and Hamstrings workout
+
+Squat – target 4 sets of 10,10,8,8 reps
+Dumbbell Lunge – target 3 sets of 8 on each leg
+45 Degree Leg Press – target 3 sets of 12 reps
+Leg Curl – target 3 sets of 15 reps
+Leg Extension – target 3 sets of 15 reps
+
+Calves workout
+
+Standing Calf Raise – target 5 sets of 10,8,8,8,6 (of heavy)reps
+Seated Calf Raise – target 5 sets of 15 (of light) reps
+"""
+
+Day4_workout = """
+Chest workout
+
+Barbell Bench Press – target 3 sets of 10, 10, 8 reps
+Dumbbell Flys – target 3 sets of 10 reps
+Cable Crossovers – target 3 sets of 10 reps
+
+Triceps workout
+
+Close Grip Bench Press – target 4 sets of 10, 10, 8, 6 reps
+Lying Dumbbell Extension – target 3 sets of 10 reps
+Tricep Kickback – target 3 sets of 10 reps
+
+Shoulders workout
+
+Seated Dumbbell Press – target 4 sets of 10, 10, 8, 8 reps
+One Arm Cable Lateral Raise – target 3 sets of 12 reps
+"""
+
+Day5_workout = """
+Back workout
+
+Seated Row – target 4 sets of 10 reps
+Bent Over Barbell Row – target 3 sets of 10 reps
+Bent Over Row – target 3 sets of 12 reps
+Smith Machine Upright Row – target 3 sets of 8-10 reps
+
+Biceps workout
+
+Cable Curl – target 4 sets of 8-10 reps
+Concentration Curl – target 3 sets of 10 reps
+Reverse Barbell Curl – target 3 sets of 10 reps
+"""

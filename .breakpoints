@@ -7,6 +7,14 @@
         "version": 780,
         "index": 1207
       }
+    ],
+    "main.py": [
+      {
+        "id": "4658e35b-e1aa-4acc-9c5f-18e68ba9711c",
+        "line": 23,
+        "version": 12772,
+        "index": 318
+      }
     ]
   }
 }
